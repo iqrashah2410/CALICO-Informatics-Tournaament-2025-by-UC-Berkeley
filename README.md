@@ -1,1 +1,1 @@
-# CS50x-Harvard-Puzzle-Day-2025
+# CALICO Informatics Tournament 2025 by UC Berkeley
